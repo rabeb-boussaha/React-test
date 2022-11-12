@@ -1,0 +1,15 @@
+<svg id="Frame_2" data-name="Frame 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Frame_2_Background_Mask_" data-name="Frame 2 (Background/Mask)" d="M0,0H25V25H0Z" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="Frame_2_Background_Mask_2" data-name="Frame 2 (Background/Mask)" width="25" height="25" fill="none"/>
+  <g id="Groupe_de_masques_1" data-name="Groupe de masques 1" clip-path="url(#clip-path)">
+    <g id="Group_1689" data-name="Group 1689" transform="translate(3.125 10.417)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.823" cy="1.823" r="1.823" transform="translate(0 3.646) rotate(-90)" fill="#333"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="1.823" cy="1.823" r="1.823" transform="translate(7.292 3.646) rotate(-90)" fill="#333"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="1.823" cy="1.823" r="1.823" transform="translate(14.583 3.646) rotate(-90)" fill="#333"/>
+    </g>
+  </g>
+</svg>
